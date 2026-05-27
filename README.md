@@ -3,7 +3,7 @@
 A responsive, visually engaging landing page for a cricket league built using fundamental React concepts (JSX, Elements) and CSS Flexbox layout.
 
 ## 🚀 Live Demo
-*(Optional: You can deploy this using GitHub Pages and put the link here later!)*
+ https://joshnakindinti.github.io/Super-over-league/
 
 ## 🛠️ Features
 - Built dynamically using **React 17** (without create-react-app overhead).
